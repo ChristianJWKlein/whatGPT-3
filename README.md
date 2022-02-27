@@ -17,3 +17,14 @@ Set up the Shell for the project including folders/files and imports / exports
 components for smaller components, containers for larger componets
 
 small components to be imported into containers (larger setions of the page)
+
+### Step two
+
+Set up main App.css folder with import from google fonts.  
+https://gist.github.com/adrianhajdin/f944d6e74d2ce1922efebe55c908d0d8
+
+https://angrytools.com/gradient/ to make gradient background
+
+https://animista.net/ for animtions
+
+### Step three
