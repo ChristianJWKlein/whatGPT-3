@@ -27,4 +27,6 @@ https://angrytools.com/gradient/ to make gradient background
 
 https://animista.net/ for animtions
 
+Using BEM styling... Block Element Modifier
+
 ### Step three

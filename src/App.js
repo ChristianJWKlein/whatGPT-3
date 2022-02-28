@@ -10,7 +10,7 @@ import {
 import { CTA, Brand, NavBar } from './components';
 import './App.css';
 
-function App() {
+export default function App() {
   return (
     <>
       <section className='App'>
@@ -29,5 +29,3 @@ function App() {
     </>
   );
 }
-
-export default App;
